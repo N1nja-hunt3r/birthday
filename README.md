@@ -2,6 +2,6 @@
 
 <div align="center">
 
-# [🎀 CLICK HERE 🎀](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/index2.html)
+# [🎀 CLICK HERE 🎀](https://github.com/N1nja-hunt3r/birthday/blob/main/index2.html)
 
 </div>
